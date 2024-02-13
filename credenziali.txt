@@ -1,2 +1,4 @@
 nome utente: admin
 password: admin
+
+il file sql è nella cartella wp
